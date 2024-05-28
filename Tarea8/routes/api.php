@@ -7,7 +7,6 @@ use App\Http\Controllers\PaisController;
 use App\Http\Controllers\InquilinoController;
 use App\Http\Controllers\DepartamentoController;
 use App\Http\Controllers\AlquilerController;
-use App\Http\Controllers\InquilinoAlquilerController;
 
 
 /*
